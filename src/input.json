@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Reliance Industries Limited",
+    "ticker": "RELIANCE",
+    "transaction_type": "BUY",
+    "price": "2350.55",
+    "quantity": "55",
+    "stock_type": "LARGECAP",
+    "sector": "chemicals",
+    "trade_time": "2022-02-27T09:53:22Z"
+  },
+  {
+    "name": "Pidilite Industries",
+    "ticker": "PDLITE",
+    "transaction_type": "BUY",
+    "price": "1250",
+    "quantity": "500",
+    "stock_type": "MIDCAP",
+    "sector": "chemicals",
+    "trade_time": "2022-05-07T09:53:22Z"
+  },
+  {
+    "name": "Nippon India Nifty 50",
+    "ticker": "NIFTYBEES",
+    "transaction_type": "BUY",
+    "price": "150",
+    "quantity": "10000",
+    "stock_type": "LARGECAP",
+    "sector": "etf",
+    "trade_time": "2022-01-27T09:53:22Z"
+  },
+  {
+    "name": "Reliance Industries Limited",
+    "ticker": "RELIANCE",
+    "transaction_type": "SELL",
+    "price": "2500",
+    "quantity": "10",
+    "stock_type": "LARGECAP",
+    "sector": "chemicals",
+    "trade_time": "2022-05-07T09:53:22Z"
+  },
+  {
+    "name": "Aurobindo Pharma",
+    "ticker": "AURO",
+    "transaction_type": "BUY",
+    "price": "350.15",
+    "quantity": "100",
+    "stock_type": "SMALLCAP",
+    "sector": "pharma",
+    "trade_time": "2022-01-01T14:53:22Z"
+  },
+  {
+    "name": "Motilal Oswal Nasdaq 100",
+    "ticker": "MON100",
+    "transaction_type": "BUY",
+    "price": "250",
+    "quantity": "5000",
+    "stock_type": "LARGECAP",
+    "sector": "etf",
+    "trade_time": "2022-04-07T09:53:22Z"
+  },
+  {
+    "name": "Motilal Oswal Nasdaq 100",
+    "ticker": "MON100",
+    "transaction_type": "SELL",
+    "price": "150",
+    "quantity": "5000",
+    "stock_type": "LARGECAP",
+    "sector": "etf",
+    "trade_time": "2022-05-07T09:53:22Z"
+  }
+]
